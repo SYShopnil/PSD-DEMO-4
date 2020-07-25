@@ -1,0 +1,10 @@
+/******?Georgia_regular*****/
+@font-face {
+	font-family: "georgia_regular";
+	src: url("Georgia_regular/911Fonts.com_GeorgiaRegular__-_911fonts.`com_fonts_rbS7.ttf")
+			format("truetype"),
+		url("Georgia_regular/911Fonts.com_GeorgiaRegular__-_911fonts.com_fonts_rbS7.eot")
+			format("eot"),
+		url("Georgia_regular/Georgia.woff") format("woff"),
+		url("Georgia_regular/Georgia.svg #georgia_regular") format("svg");
+}
